@@ -1,5 +1,5 @@
 """
-Author: Christou Nektarios - https://github.com/nekxt
+Author: Christou Nektarios - https://github.com/nekcht
 Date: September 15, 2023
 Description: This Python script implements a basic Multi-Layer Perceptron (MLP) for time
              series forecasting. It is designed to be versatile and can be used for various
