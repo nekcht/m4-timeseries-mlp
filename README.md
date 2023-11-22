@@ -25,3 +25,6 @@ Upon analyzing the performance of the MLP model on the M4 competition dataset, s
 The model demonstrated commendable accuracy, particularly in capturing the overall trends and seasonal patterns within the data. However, in certain instances, deviations were observed, especially during periods of abrupt changes or irregular fluctuations. This suggests potential areas for further refinement, such as exploring more sophisticated architectures or fine-tuning hyperparameters to improve adaptability to such variations.</p>
 
 Feel free to explore, modify, and enhance this codebase to suit your specific use case or experiment with different datasets and configurations.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
